@@ -173,6 +173,10 @@ Toate sunt **modele mici** / economice pentru proiecte educaționale.
 
 ---
 
-## 📄 Licență
+## 📄 Poze interfata Streamlist
+<img width="1905" height="774" alt="interfata_streamlit_test1" src="https://github.com/user-attachments/assets/15b65da2-c248-4005-867c-9546f7a34a6f" />
+<img width="1915" height="904" alt="interfata_streamlit_test2" src="https://github.com/user-attachments/assets/66948b16-bc5a-4a8d-b962-30f99cd4cb9a" />
+<img width="1908" height="920" alt="interfata_streamlit_test3" src="https://github.com/user-attachments/assets/523f96d4-a3e6-4643-b28d-8d3c5553533c" />
 
-Proiect educațional; utilizează API-urile OpenAI. Respectă termenii de utilizare.
+
+
